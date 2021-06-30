@@ -3,7 +3,6 @@
 #include <TinyGPS.h>
 #include <SoftwareSerial.h>
 
-//test
 // The TinyGPS object
 TinyGPS gps;
 
